@@ -9,6 +9,12 @@ import { NavigationComponent } from './components/navigation/navigation.componen
 import { MatButtonToggleModule } from '@angular/material/button-toggle';
 import { HomeComponent } from './components/home/home.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { CarouselComponent } from './components/carousel/carousel.component';
+import { SixteenComponent } from './components/sixteen/sixteen.component';
+import { WeddingComponent } from './components/wedding/wedding.component';
+import { SessionsComponent } from './components/sessions/sessions.component';
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { SampleComponent } from './components/sample/sample.component';
 
 //Material
 
@@ -17,7 +23,12 @@ import { FooterComponent } from './components/footer/footer.component';
     AppComponent,
     NavigationComponent,
     HomeComponent,
-    FooterComponent
+    FooterComponent,
+    CarouselComponent,
+    SixteenComponent,
+    WeddingComponent,
+    SessionsComponent,
+    SampleComponent
   ],
   imports: [
     BrowserModule,
@@ -25,7 +36,8 @@ import { FooterComponent } from './components/footer/footer.component';
     BrowserAnimationsModule,
     MatSliderModule,
     MatButtonModule,
-    MatButtonToggleModule
+    MatButtonToggleModule,
+    NgbModule
   ],
   providers: [],
   bootstrap: [AppComponent]

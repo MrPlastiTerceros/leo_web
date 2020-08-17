@@ -1,5 +1,5 @@
 * {
-    background-color: #353c51;
+    background-color: #000000;
 }
 
 .container-logo {
@@ -13,4 +13,9 @@
 
 .leo-photo{
     border-radius: 340px;
+}
+
+.flex-container {
+    display: inline-flex;
+    align-items: center;
 }

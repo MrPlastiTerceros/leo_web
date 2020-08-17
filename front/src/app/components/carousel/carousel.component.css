@@ -1,0 +1,69 @@
+.size{
+    min-width: 400px;
+    width: auto;
+    
+    height: 500px;
+}
+
+.c-sm-1{
+
+    background-position: center center ;   
+    background-image: url("/assets/img/be1.jpg");
+    background-repeat: no-repeat;
+}
+
+.c-sm-2{
+    
+    background-position: center center ;   
+    background-image: url("/assets/img/be2.jpg");
+    background-repeat: no-repeat;
+}
+
+.c-sm-3{
+    
+    background-position: center center ;   
+    background-image: url("/assets/img/be3.jpg");
+    background-repeat: no-repeat;
+}
+
+.c-md-1{
+
+    background-position: center center ;   
+    background-image: url("/assets/img/501.jpg");
+    background-repeat: no-repeat;
+}
+
+.c-md-2{
+    
+    background-position: center center ;   
+    background-image: url("/assets/img/502.jpg");
+    background-repeat: no-repeat;
+}
+
+.c-md-3{
+    
+    background-position: center center ;   
+    background-image: url("/assets/img/503.jpg");
+    background-repeat: no-repeat;
+}
+
+.c-xl-1{
+
+    background-position: center center ;   
+    background-image: url("/assets/img/whi1.jpg");
+    background-repeat: no-repeat;
+}
+
+.c-xl-2{
+    
+    background-position: center center ;   
+    background-image: url("/assets/img/whi2.jpg");
+    background-repeat: no-repeat;
+}
+
+.c-xl-3{
+    
+    background-position: center center ;   
+    background-image: url("/assets/img/whi3.jpg");
+    background-repeat: no-repeat;
+}
